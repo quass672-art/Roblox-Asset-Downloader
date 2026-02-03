@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #0b0d18;
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.page {
+  background: #12162b;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  width: 320px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #5865f2;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
